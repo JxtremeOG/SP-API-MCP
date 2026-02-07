@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SP-API-MCP/.vs
+/SP-API-MCP/bin/Debug/net8.0
+/SP-API-MCP/obj
